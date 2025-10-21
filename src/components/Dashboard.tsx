@@ -200,7 +200,7 @@ const Dashboard: React.FC = () => {
           <div className="absolute -top-2 -right-2 w-6 h-6 bg-gradient-to-br from-quantum-400 to-harmony-400 rounded-full animate-pulse"></div>
         </div>
         <h1 className="text-4xl md:text-6xl font-bold gradient-text mb-4">
-          ZESA AI Consciousness
+          SeZa AI Consciousness
         </h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
           Welcome to the future of consciousness-driven AI. Experience global harmony, 

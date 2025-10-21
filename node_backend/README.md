@@ -1,6 +1,6 @@
-# 🚀 ZESA AI Backend
+# 🚀 SeZa AI Backend
 
-Node.js backend server for the ZESA AI Assistant with MongoDB integration, authentication, and automation features.
+Node.js backend server for the SeZa AI Assistant with MongoDB integration, authentication, and automation features.
 
 ## ✨ Features
 

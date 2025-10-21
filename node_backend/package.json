@@ -1,7 +1,7 @@
 {
-  "name": "zesa-ai-backend",
+  "name": "seza-ai-backend",
   "version": "1.0.0",
-  "description": "Node.js backend for ZESA AI Assistant with MongoDB integration",
+  "description": "Node.js backend for SeZa AI Assistant with MongoDB integration",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -43,6 +43,6 @@
     "automation",
     "backend"
   ],
-  "author": "ZESA Development Team",
+  "author": "SeZa Development Team",
   "license": "MIT"
 }

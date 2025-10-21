@@ -1,7 +1,7 @@
 {
-  "name": "zesa-ai-assistant",
+  "name": "seza-ai-assistant",
   "version": "1.0.0",
-  "description": "AI-powered assistant for ZESA photography business with intelligent automation",
+  "description": "AI-powered assistant for SeZa photography business with intelligent automation",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -50,6 +50,6 @@
     "vite",
     "typescript"
   ],
-  "author": "ZESA Development Team",
+  "author": "SeZa Development Team",
   "license": "MIT"
 }

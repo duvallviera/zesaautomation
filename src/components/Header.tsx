@@ -157,10 +157,10 @@ const Header: React.FC = () => {
               <span className="text-sm font-medium text-consciousness-700">AI Active</span>
             </div>
             
-            {/* User Avatar */}
+            {/* SeZa Logo */}
             <div className="relative group">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary-400 to-consciousness-400 rounded-full flex items-center justify-center shadow-md group-hover:shadow-lg transition-all duration-300 group-hover:scale-105">
-                <span className="text-white font-semibold text-base">Z</span>
+              <div className="w-12 h-12 bg-gradient-to-br from-primary-400 to-consciousness-400 rounded-xl flex items-center justify-center shadow-md group-hover:shadow-lg transition-all duration-300 group-hover:scale-105">
+                <span className="text-white font-bold text-lg">SeZa</span>
               </div>
               <div className="absolute -bottom-1 -right-1 w-4 h-4 bg-green-500 rounded-full border-2 border-white"></div>
             </div>

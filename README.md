@@ -1,4 +1,4 @@
-# 🌟 SEZA Team - AI Assistant & Contact Form System
+# 🌟 SeZa Team - AI Assistant & Contact Form System
 
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Gmail%20API-4285F4?style=for-the-badge&logo=google-cloud)](https://cloud.google.com)
@@ -7,7 +7,7 @@
 
 > **Consciousness-Driven Automation for Modern Business**
 
-A comprehensive AI-powered assistant system with intelligent automation modules, professional contact form, and consciousness-driven business solutions for SEZA Team.
+A comprehensive AI-powered assistant system with intelligent automation modules, professional contact form, and consciousness-driven business solutions for SeZa Team.
 
 ## 🚀 **Live Demo**
 
@@ -36,7 +36,7 @@ A comprehensive AI-powered assistant system with intelligent automation modules,
 - **Quantum Glow Effects** - Advanced visual animations
 - **Responsive Layout** - Perfect on desktop, tablet, and mobile
 - **Accessibility Compliant** - WCAG AA standards
-- **Professional Branding** - SEZA Team identity
+- **Professional Branding** - SeZa Team identity
 
 ## 🛠️ **Technology Stack**
 
@@ -112,7 +112,7 @@ VITE_GOOGLE_SERVICE_ACCOUNT=seza.studio.website@gmail.com
 
 # Production Configuration
 VITE_APP_URL=https://your-domain.com
-VITE_APP_NAME=SEZA Team Contact Form
+VITE_APP_NAME=SeZa Team Contact Form
 ```
 
 ### **Google Cloud Setup**

@@ -7,7 +7,7 @@ dotenv.config();
 
 const connectDB = async () => {
   try {
-    const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/zesa_ai_assistant';
+    const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/seza_ai_assistant';
     await mongoose.connect(mongoURI, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
@@ -29,7 +29,7 @@ const setupDatabase = async () => {
     const adminExists = await User.findOne({ email: 'admin@sezateamengineers.com' });
     if (!adminExists) {
       const adminUser = new User({
-        name: 'SEZA Admin',
+        name: 'SeZa Admin',
         email: 'admin@sezateamengineers.com',
         password: 'admin123456', // Change this in production
         role: 'admin',
@@ -49,7 +49,7 @@ const setupDatabase = async () => {
     const aiAgentExists = await User.findOne({ email: 'ai@sezateamengineers.com' });
     if (!aiAgentExists) {
       const aiAgent = new User({
-        name: 'ZESA AI Assistant',
+        name: 'SeZa AI Assistant',
         email: 'ai@sezateamengineers.com',
         password: 'ai123456', // Change this in production
         role: 'ai_agent',

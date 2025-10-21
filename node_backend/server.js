@@ -93,7 +93,7 @@ connectDB();
 app.get('/health', (req, res) => {
   res.status(200).json({
     status: 'OK',
-    message: 'ZESA AI Backend is running',
+    message: 'SeZa AI Backend is running',
     timestamp: new Date().toISOString(),
     version: '1.0.0'
   });
@@ -123,7 +123,7 @@ app.use(errorHandler);
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`🚀 ZESA AI Backend server running on port ${PORT}`);
+  console.log(`🚀 SeZa AI Backend server running on port ${PORT}`);
   console.log(`📊 Health check: http://localhost:${PORT}/health`);
   console.log(`🌐 Environment: ${process.env.NODE_ENV || 'development'}`);
 });
