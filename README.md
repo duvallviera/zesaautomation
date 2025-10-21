@@ -248,9 +248,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Google Cloud Setup](GOOGLE_CLOUD_SETUP.md)
 - [API Documentation](docs/api.md)
 
-## 🌟 **About SEZA Team**
+## 🌟 **About SeZa Team**
 
-SEZA Team specializes in consciousness-driven automation and AI-powered business solutions. We combine cutting-edge technology with mindful design to create transformative experiences for modern businesses.
+SeZa Team specializes in consciousness-driven automation and AI-powered business solutions. We combine cutting-edge technology with mindful design to create transformative experiences for modern businesses.
 
 ### **Our Mission**
 To revolutionize business operations through consciousness-driven automation, creating harmonious systems that enhance human potential and global connectivity.
@@ -265,4 +265,4 @@ To revolutionize business operations through consciousness-driven automation, cr
 
 **🌟 Built with consciousness and powered by technology**
 
-*SEZA Team - Transforming business through consciousness and automation*
+*SeZa Team - Transforming business through consciousness and automation*
